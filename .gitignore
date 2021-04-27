@@ -9,7 +9,7 @@
 .history
 .svn/
 android/
-
+.gitignore
 # IntelliJ related
 *.iml
 *.ipr
