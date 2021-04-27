@@ -53,7 +53,7 @@ class PersonalInformation extends StatelessWidget {
                   Text(
                     infos[0].phoneNumber,
                   ),
-                  //adding call icon
+                  //ADDING CALL ICON
                   IconButton(
                     icon: Icon(Icons.call_rounded),
                     onPressed: () {},
