@@ -9,6 +9,7 @@
 .history
 .svn/
 android/
+ios/
 .gitignore
 # IntelliJ related
 *.iml
